@@ -50,7 +50,7 @@ This project includes documentation explaining:
 ## 🖥️ How to Run the Application
 
 ### 🔧 Prerequisites
-Spring Tool Suite (STS) installed
+Spring Tool Suite (STS) / Eclipse installed
 
 JDK 8+ configured
 
@@ -59,10 +59,15 @@ Project imported into STS
 ▶️ Run Steps (STS IDE)
 
 1️⃣ Open STS
+
 2️⃣ Click File → Import → Existing Maven / Java Project
+
 3️⃣ Browse and select the project folder
+
 4️⃣ Wait for STS to build the project
+
 5️⃣ Go to the Main class containing the public static void main(String[] args) method
+
 6️⃣ Right-click → Run As → Java Application
 
 ✔ The console will show the menu like:
