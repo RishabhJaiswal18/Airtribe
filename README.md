@@ -45,8 +45,6 @@ This project includes documentation explaining:
 - Execution Engine (Interpreter & JIT)
 - How Java achieves **"Write Once, Run Anywhere"**
 
-📁 File: `/docs/JVM_Architecture_Report.pdf` *(you will place your report here)*
-
 ---
 
 ## 🖥️ How to Run the Application
@@ -57,6 +55,3 @@ This project includes documentation explaining:
 
 ### ▶️ Run Steps
 
-```bash
-javac Main.java
-java Main
